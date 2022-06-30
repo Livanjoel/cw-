@@ -1,4 +1,4 @@
-# ***Chat Wars Script Written By AK Hacker***
+# ***Chat Wars Script ***
 
 ![](assets/20211018_034919_gameplayer.jpg)
 
@@ -10,7 +10,7 @@ Setup:
 
 Heroku Button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AKHACKER-program4hack/chatwarsplayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Livanjoel/cw-)
 
 2. Get Your Api ID and API Hash using the website https://my.telegram.org/app
 3. Then open the link below and click on "Run" and then put your api id and api hash and phone number accordingly and login to your telegram account to get the session string
